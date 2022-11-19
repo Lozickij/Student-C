@@ -7,7 +7,7 @@ int numberB = 3;
 int result = numberA + numberB;
 Console.WriteLine(result);*/
 
-int numberA = new Random().Next(1, 10); // 1234 ... 9
+int numberA = new Random().Next(1, 10); // 1234 ... 9 Выводим сумму случайных чисел
 Console.WriteLine(numberA);
 int numberB = new Random().Next(1, 10);
 Console.WriteLine(numberB);
