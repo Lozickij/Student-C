@@ -10,7 +10,7 @@ else
     Console.WriteLine(username);
 }*/
 
-Console.Write("Введите имя пользователя: ");
+/*Console.Write("Введите имя пользователя: ");
 string username = Console.ReadLine();
 if(username.ToLower() == "маша")
 {
@@ -20,4 +20,4 @@ else
 {
     Console.Write("Привет,  ");
     Console.WriteLine(username);
-}
+}*/
